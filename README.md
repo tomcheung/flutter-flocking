@@ -3,8 +3,7 @@
 This is a simple project to simulate flocking behavior in flutter using boids algorithm,
 to explore flutter custom painter function and other stuffs
 
-![Demo image]
-(./readme_image/demo.gif)
+![Demo image](.readme_image/demo.gif)
 
 ## Requirements
 
